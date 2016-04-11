@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 # Middleman Gems
 gem 'middleman',            '~> 4.0'
 gem 'middleman-blog',       '~> 4.0'
+gem 'middleman-gh-pages',   '~> 0.3'
 
 gem 'nokogiri',   '~> 1.6'
 gem 'redcarpet',  '~> 3.3', '>= 3.3.3'
