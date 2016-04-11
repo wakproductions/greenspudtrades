@@ -11,40 +11,66 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <!-- Local site settings -->
+    <link rel="stylesheet" href="/stylesheets/site.css">
 
     <title><%= config[:blog_title] %><%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
   <body>
 
-  <%= alert_box 'You accepted the Terms of service.', dismissible: true %>
+  <%= partial 'google_analytics' %>
 
-  <div id="main" role="main">
-      <%= yield %>
+  <div class="container-fluid main">
+    <div class="header row">
+      <div class="col-md-12 title">
+        <h2><%= link_to "Greenspud Trades", "/" %></h2>
+        <span class="subtitle">I make green blobs of money</span>
+      </div>
+    </div>
+    <div class="header row">
+      <div class="col-md-12"><%= image_tag('greenspud-header-1038x540.jpeg', class: 'header') %></div>
     </div>
 
-    <aside>
-      <h2>Recent Articles</h2>
-      <ol>
-        <% blog.articles[0...10].each do |article| %>
-          <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
-        <% end %>
-      </ol>
+    <div class="content-row row">
+      <div class="col-md-8">
+        <div id="main" role="main">
+          <% if is_blog_article? %>
+            <h2><%= link_to current_article.title %></h2>
+            <div class="datestamp"><%= current_article.date.strftime('%B %e, %Y') %></div>
+          <% end %>
 
-      <h2>Tags</h2>
-      <ol>
-        <% blog.tags.each do |tag, articles| %>
-          <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
-        <% end %>
-      </ol>
+          <%= yield %>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <aside>
+          <%= partial 'twitter_box' %>
 
-      <h2>By Year</h2>
-      <ol>
-        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-          <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
-        <% end %>
-      </ol>
-    </aside>
+          <h2>Recent Articles</h2>
+          <ol>
+            <% blog.articles[0...10].each do |article| %>
+                <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
+            <% end %>
+          </ol>
+
+          <h2>Tags</h2>
+          <ol>
+            <% blog.tags.each do |tag, articles| %>
+                <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
+            <% end %>
+          </ol>
+
+          <h2>By Year</h2>
+          <ol>
+            <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
+            <% end %>
+          </ol>
+        </aside>
+      </div>
+    </div>
+  </div>
 
   </body>
 </html>

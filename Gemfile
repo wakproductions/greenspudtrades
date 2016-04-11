@@ -6,9 +6,13 @@ source 'https://rubygems.org'
 gem 'middleman',            '~> 4.0'
 gem 'middleman-blog',       '~> 4.0'
 
-gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+gem 'nokogiri',   '~> 1.6'
+gem 'redcarpet',  '~> 3.3', '>= 3.3.3'
 
 # For feed.xml.builder
 gem 'builder', '~> 3.0'
 
 gem 'bh',             '~> 1.3'
+
+# For converting former Wordpress site to Middleman
+gem 'wordpress-to-middleman', path: '~/Development/sites/wordpress-to-middleman'

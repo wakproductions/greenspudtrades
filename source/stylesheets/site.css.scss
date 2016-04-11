@@ -2,66 +2,61 @@
 @import "normalize";
 
 body {
-  background: #ECC561;
-  text-align: center;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  background-color: #0F7004;
 }
 
-.logo img {
-  height: 18.75em;
-  margin-top: 6em;
+div.main {
+  background-color: #FFFFFF;
+  margin: 35px 50px;
 }
 
-h1 {
-  color: rgba(0,0,0,0.5);
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.8em;
-  font-weight: 400;
-  margin: 0;
+div.header {
+  background-color: #FFDEAD;
 }
 
-.doc {
-  margin: 3em 0;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.1em;
-  font-weight: 300;
-
+div.title {
+  padding-left: 30px;
+  .subtitle {
+    padding-left: 66px;
+    font-style: italic;
+  }
   a {
-    border: 1px solid white;
-    border-radius: 3px;
-    padding: 0.75em 0.7em;
-    color: white;
     text-decoration: none;
-    transition: color 0.1s linear;
-    &:hover {
-      background: rgba(0,0,0,0.2);
-      color: white;
-      transition: all 0.15s linear;
+    color: #000000;
+  }
+}
+
+div.content-row {
+  padding: 15px 0px;
+}
+
+.datestamp {
+  margin-bottom: 5px;
+}
+
+div.article {
+}
+
+img.header {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.image-box {
+  padding: 15px 45px;
+  .image-box-content {
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 3px;
+      width: 100%;
     }
   }
+  .image-box-caption {
+    padding: 5px;
+    font-weight: bold;
+  }
 }
 
-.welcome {
-  -webkit-animation-name: welcome;
-  -webkit-animation-duration: .9s;
-}
-
-@-webkit-keyframes welcome {
-  from {
-    -webkit-transform: scale(0);
-    opacity: 0;
-  }
-  50% {
-   -webkit-transform: scale(0);
-   opacity: 0;
-  }
-  82.5% {
-    -webkit-transform: scale(1.03);
-    -webkit-animation-timing-function: ease-out;
-    opacity: 1;
-  }
-  to {
-    -webkit-transform: scale(1);
-  }
-}
