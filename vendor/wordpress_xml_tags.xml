@@ -1,3 +1,6 @@
+wtom = WordpressToMiddleman::Parser.new(wordpress_xml_file_path: '/Users/wkotzan/Development/sites/greenspudtrades-middleman/source/blog/greenspudtrades.wordpress.2016-04-09.xml', output_dir: '/Users/wkotzan/Development/sites/greenspudtrades-middleman/source/blog/', original_domain: 'http://www.greenspudtrades.com/', new_domain: nil)	
+
+
 For Attachments:
 parse attachment_url for the path of the image
 

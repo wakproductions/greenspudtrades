@@ -1,0 +1,123 @@
+---
+title: Is now a good time to buy XIV?
+date: 2014-09-29
+tags:
+  - Market Commentary &amp; Analysis
+  - Trading 101
+---
+This past year I have been working on trading strategies involving the VXX and XIV securities. These are exchange traded notes (ETNs) intended to mimic the short-term moves in the CBOE volatility index, the VIX.
+
+The VIX is not a real trading instrument. Rather, it is a mathematical number calculated by the CBOE and derived from the value of stock options premiums within the S&amp;P 500. If the options market is more active and traders bid up the premiums, this means that the options reflect more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <em>volatility</em> in the stock market. A higher VIX number indicates more volatility.
+
+The implied volatility of stock options can go up for a variety of reasons. More traders may be buying hedges for their portfolios. Speculators may be betting on stronger directional moves in the market. Generally, volatility increases when there is more uncertainty in the market, which usually coincides with a drop in the overall stock market. Thus, the VIX almost always spikes when the S&amp;P 500 has a pullback. Stronger pullbacks or corrections in the market correlate to a more intense spike in the VIX.
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-12.29.35-PM.png', caption: '1 Year Chart of S&amp;P500 vs VIX'} %>
+
+
+&nbsp;
+
+<strong>VIX Futures - A Roundabout Way of Playing Volatility</strong>
+
+Because the VIX is not a tradable security, the CBOE offers traders a way to make bets on the VIX through cash-settled futures.  VIX futures have monthly expirations and the settlement value is supposed to correspond to the value of the VIX at the settlement time. But because a futures market trades based on the future expectations of its underlying security's value, the value of VIX futures contracts several months out differ from the current value of the VIX. Here is a chart of the typical VIX term structure.
+
+&nbsp;
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-12.34.56-PM.png', caption: 'The term structure of VIX futures. Source: vixcentral.com'} %>
+
+
+Notice how the curve is sloping up? The father out you go on the futures contract settlement date, the more expensive the contract relative to VIX. This makes sense because it shows that a trader buying a long term VIX futures contract today is expecting that at some point between now and the settlement day, the VIX will spike higher and the contract can be sold or will expire at a higher price. For example, do you think that between now and next May the VIX will at some point spike above 18.24? Given its history of spikes and a long term average of 20, there is a reasonable chance over 9 months that the VIX at some point will be over 18.24.
+
+When the VIX term structure is sloping upwards like this, it is in a condition known as <em>contango</em>. In contango, rolling over your contract from one expiration to the next costs you money. Why? Suppose you wanted to roll over your October VIX contract and buy the November future. You would sell the October for 15.33 and buy the November for 15.82. You would have to pay for the difference of 0.49, or 3.2%!
+
+There are times when the VIX term structure changes so that the curve slopes downward. The opposite of contango happens, which we call <em>backwardation</em>. Backwardation helps traders by allowing them to profit from rolling contracts forward since the near term expiration is more expensive than the long term expiration contract. Here's what backwardation looks like.
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-12.55.38-PM.png', caption: 'Example of backwardation on the VIX term structure. Source: vixcentral.com'} %>
+
+
+&nbsp;
+
+<strong>Using the VXX and XIV to Trade VIX and VIX Futures</strong>
+
+A product from Barclay's allows you to trade VIX futures - the iPath S&amp;P 500 VIX Short-Term Futures ETN, traded under the ticker VXX on the New York Stock Exchange. The VXX gives equities traders like me the ability to trade volatility without having to go directly through the futures market. The underlying VXX security is backed by futures contracts held by Barclay's. They maintain a portfolio of the next 2 month's VIX futures and use a computer algorithm to keep the VXX security's value in tandem with the underlying value of these assets.
+
+The VXX is intended to be used as a tool to help equities traders hedge their portfolio against an increase in short term stock market volatility. Because the VXX moves strongly in times of increasing volatility, a small position in it can offset a large drop in the stock market. Here is chart depicting the performance of VXX compared to the 2011 correction in the S&amp;P 500. If you timed your entry just right, a 10% allocation of VXX would have completely offset the entire 20% loss of value in a portfolio of the S&amp;P 500 stocks.
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-1.33.14-PM.png', caption: ''} %>
+
+
+<strong>VXX Will Lose Value If Held Over the Long Run</strong>
+
+By the way this product is advertised, you may get the impression that holding some VXX in your portfolio will provide a hedge against a decline in the market. Unfortunately, it's not that simple. For most of the time, the term structure of the VIX futures are in contango. Because Barclay's is constantly rolling over their underlying contracts from the first month to the second month, VXX constantly loses money due to contango. Over an extended period of time, this adds up to a massive decline in value. During a bull market, contango between the first and second month VIX futures contracts usually runs between 3% and 6% <em>a month!</em>
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-1.42.40-PM.png', caption: 'Weekly chart of VXX performance since the current ETN''s inception in 2009. A 99.7% loss from its peak!'} %>
+
+
+For a few days of the year we can see backwardation.<sup>1</sup> Backwardation usually appears during a severe and sudden decline in the market, when emotions run high. Such bouts of backwardation temporarily prop up the value of VXX and can give a rally some sticking power.
+<h3 style="text-align: center;"><em>Contango =&gt; VXX Goes Down</em>
+<em>Backwardation =&gt; VXX Goes Up </em></h3>
+Rather than going down to zero due to contango, VXX will just become infinitesimally small. Barclay's frequently issues reverse splits which keep the dollar value normalized between 10 and 40 dollars per share. They can also issue more shares as needed to keep the ETN trading in alignment with its net asset value.
+
+<strong>Can I Profit From Contango's Long Term Effect on VIX Futures?</strong>
+
+Since contango erodes the value of VXX over the long run, you may be thinking that going short the VXX is a surefire way of making money. While this strategy looks very appealing, there are some huge risks. A sudden correction in the stock market could spike the VIX very high. In a matter of days or even hours, VXX could triple. If you have a large part of your portfolio short VXX and this happens, you will get the margin call from your broker that blows up your account.
+
+If you want to play long term contango, a good alternative to a VXX short is to go long the Credit Suisse VelocityShares Daily Inverse VIX Short-Term ETN, XIV. This ETN mimics the daily returns of VXX on the inverse side by going short the near term futures contracts. I like XIV because it eliminates some of the disadvantages of being short VXX. You don't have to pay your broker borrowing fees and the amount of capital you risk is limited to the amount of capital you put in.
+
+The long term returns you can capture from being long XIV are incredible, but you still risk losing a lot of capital with bad timing. A sharp decline in the market could cause you to lose most of your investment and take a very long time to recover.
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-3.27.37-PM.png', caption: ''} %>
+
+
+There are unique risks to holding XIV as a long term investment. An unforeseen change in the VIX futures term structure could cause prolonged backwardation. A severe intraday move in the VIX futures could drive XIV to become infinitesimally small or may even break the ETN.
+
+<a href="http://www.moneyandmarkets.com/trade-broken-products-at-your-peril-49315">A VIX-based ETN has broken before.</a> The Credit Suisse TVIX ETN product is "broken" because the bank hit a self imposed internal limit on the ETN size and cannot issue more shares. TVIX therefore trades out of alignment with its net asset value because the issuing bank has a defective tool in adjusting the value of the traded security.
+
+<strong>Measuring Movement in the VIX vs XIV</strong>
+
+For the past few days the stock market has been jittery. Last Thursday the market fell and the VIX spiked to 16.69. If you believe this is a short term top in the VIX, it may be profitable to go long XIV. If volatility declines, the VIX futures will fall and XIV will increase in value.
+
+To help estimate the downside risk in XIV from where it's currently at, I conducted a study comparing XIV's value to the VIX over the last year. Below is a chart visualizing the result of my study. It's a scatter plot of XIV over the course of 2014. The different colored markers are used to denote the value of the VIX as compared to XIV<span style="line-height: 1.4em;">. See the key on the right hand side. The Y-axis denotes the value of XIV.</span>
+
+To give an example of how to read this chart, the leftmost markers represent the VIX and XIV at the very beginning of 2014. As you can see, the first few markers are green triangles, which means that the VIX had a value of 14 when XIV was at a value of approximately 34. Moving right, the VIX fell going into January. The red squares represent the VIX at 13. Going into February, the VIX spiked to 20 (denoted by orange circles) and XIV value fell into the upper 20's.
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-10.55.43-PM.png', caption: ''} %>
+
+
+&nbsp;
+
+<%= partial 'image', locals: { filename: '2014/09/Screen-Shot-2014-09-28-at-10.34.23-PM.png', caption: 'XIV chart over the same timeframe as the study above.'} %>
+
+
+&nbsp;
+
+As you can see from the chart above, we had a period mid-year when the VIX went into the low teens and strong contango pushed XIV higher. Early in the year, a VIX reading of 13 coincided with XIV at around 35. Now in September a VIX reading of 13 coincides with XIV at 43, thanks to the impact of contango.
+
+<strong>Is Buying XIV Here and Holding a Good Strategy?</strong>
+
+The last major advance we had in XIV was this summer when it climbed from the low 30's to the mid 40's, a gain of roughly 50% in 3 months. Now that the markets and XIV have spent some time consolidating at the current levels, I think we could potentially see another advance as we go into the holiday season.
+
+Using my study to gauge the potential downside from the current value of XIV, I estimate that a spike in the VIX to 20 could cause XIV to fall into the low 30's. But backwardation could easily cause it to drop even further. So from the current level, you risk a potential 20% drop in XIV if the market goes through a calamity such as a correction. But if you are an optimist and believe the bull market will continue and volatility will remain low, then XIV could substantially increase by the end of the year because of contango.
+
+The long term effect of contango should continue to gradually increase the value of XIV into the foreseeable future. But whether the timing is right to engage XIV for a swing trade to profit from the impact of contango depends on your risk tolerance. A prudent trading strategy should involve the minimization of unrealized losses to prevent them from turning into much larger realized losses down the road.
+
+Whichever scenario you think will play out, XIV will provide some interesting moves to profit from. As a trader of any VIX based product, it's important to understand the factors driving the price action - such as the sentiment in the overall market and the strength of contango/backwardation. If you wait for good entries and have a prudent loss management plan to protect yourself from the risks, trading VIX based securities could be extremely lucrative over the long term.
+
+<hr />
+
+<h6>1. You can find a good article on contango/backwardation stats <a href="http://www.cboeoptionshub.com/2014/08/20/quantifying-vix-contango-backwardation/" target="_blank">here</a></h6>
