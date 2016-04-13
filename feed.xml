@@ -5,112 +5,550 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-09-28T20:00:00-04:00</updated>
+  <updated>2015-09-28T20:00:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>XIV is About To Get Dangerous</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2014/09/29/xiv-about-to-get-dangerous-test/"/>
-    <id>http://blog.url.com/blog/2014/09/29/xiv-about-to-get-dangerous-test/</id>
-    <published>2014-09-28T20:00:00-04:00</published>
-    <updated>2016-04-09T23:41:15-04:00</updated>
+    <title>XIV is About to Get Dangerous</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/09/29/xiv-is-about-to-get-dangerous/"/>
+    <id>http://blog.url.com/blog/2015/09/29/xiv-is-about-to-get-dangerous/</id>
+    <published>2015-09-28T20:00:00-04:00</published>
+    <updated>2016-04-12T10:46:16-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;For a long time I have been an advocate of the long XIV trade, or effectively, to short any volatility spikes. This strategy has worked very well during the most recent bull market. Who wouldn’t be lured by the tenfold gain seen on the XIV chart?&lt;/p&gt;
+    <content type="html">&lt;p&gt;For a long time I have been an advocate of the long XIV trade, or effectively, to short any volatility spikes. This strategy has worked very well during the most recent bull market. Who wouldn't be lured by the tenfold gain seen on the XIV chart?&lt;/p&gt;
 
 &lt;div class="image-box"&gt;
   &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/Main_thinkorswim__build_1878_29_.png"&gt;&lt;img src="/images/Main_thinkorswim__build_1878_29_.png" /&gt;&lt;/a&gt;
+    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_.png" /&gt;&lt;/a&gt;
   &lt;/div&gt;
     &lt;div class="image-box-caption"&gt;
-      XIV nicely weathered every dip since 2011. Source: ThinkOrSwim
+      XIV nicely weathered every dip since 2011. &lt;strong&gt;&lt;em&gt;Source: ThinkOrSwim&lt;/em&gt;&lt;/strong&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;As always, past performance is not predictive of future returns. XIV has been smashed by this recent rout in the market, having fallen over 50% from its all time high. In fact, the XIV trade does not seem to be working well in general lately. It’s price has had some wild swings since the fourth quarter of 2014.&lt;/p&gt;
+&lt;p&gt;As always, past performance is not predictive of future returns. XIV has been smashed by this recent rout in the market, having fallen over 50% from its all time high. In fact, the XIV trade does not seem to be working well in general lately. It's price has had some wild swings since the fourth quarter of 2014.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What Happened to Contango?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;As I explained in a post last year, XIV’s returns have been supercharged by a prolonged period of backwardation on the CBOE VIX futures curve. Then early this year I wrote a follow up to that post when I noticed that XIV seemed to have broken its long term trend. I put forth several reasons that we may be entering a new phase of volatility where the persistence of contango helping the XIV may no longer be so reliable.&lt;/p&gt;
+&lt;p&gt;As I &lt;a title="Is now a good time to buy XIV?" href="http://www.greenspudtrades.com/2014/09/29/is-now-a-good-time-to-buy-xiv/"&gt;explained in a post last year&lt;/a&gt;, XIV's returns have been supercharged by a prolonged period of backwardation on the CBOE VIX futures curve. Then early this year I wrote a&lt;a title="The Dangers of Swing Trading XIV" href="http://www.greenspudtrades.com/2015/01/02/the-dangers-of-swing-trading-xiv/"&gt; follow up to that post when I noticed&lt;/a&gt; that XIV seemed to have broken its long term trend. I put forth several reasons that we may be entering a new phase of volatility where the persistence of contango helping the XIV may no longer be so reliable.&lt;/p&gt;
 
-&lt;p&gt;Since the stock market began its correction at the end of August, XIV has been hurting because the futures curve is stuck in backwardation. Unlike most volatility spikes in recent years, this time the VIX and backwardation are not fading so quickly. To better understand how this could impact XIV, I conducted a study of past “sticky” volatility spikes to determine if we could gain insight into the near future.&lt;/p&gt;
+&lt;p&gt;Since the stock market began its correction at the end of August, XIV has been hurting because the futures curve is stuck in backwardation. Unlike most volatility spikes in recent years, this time the VIX and backwardation are not fading so quickly. To better understand how this could impact XIV, I conducted a study of past "sticky" volatility spikes to determine if we could gain insight into the near future.&lt;/p&gt;
 
-&lt;p&gt;In this study, I make the assumption that any VIX spike above its long term average will send the VIX futures curve into backwardation. This will happen because the price of the nearest expiring futures contract is drawn to the spot price of the VIX, but longer dated futures contracts are drawn to the VIX long term average. The difference between the current VIX futures contract and the spot is what traders call the roll yield. This blog article by VIX Contango Oscillator explains it very well:&lt;/p&gt;
-
-&lt;p&gt;…a VIX Future contract over the long term tries to reach the average spot VIX value. The farther out in time the future, the closer the fair value will be to the average historical VIX value. The delta between the future price approximation and the average value goes exponentially closer to zero. The flipside of that calculation is that the nearest term VIX future has the largest difference to the long-term average, the second term VIX Future – the second largest difference, the third term VIX Future – the third largest difference, etc. The exponential decline in the delta can be plainly seen in the usual VIX Future Curve formation depicted above (Contango formation).&lt;/p&gt;
-
-&lt;p&gt;Pasted_Image_9_29_15__11_22_PM&lt;/p&gt;
-
-&lt;p&gt;Pasted_Image_9_29_15__11_27_PM&lt;/p&gt;
-
-&lt;p&gt;I downloaded the historical spot VIX prices from the CBOE website.  Using data from 2004-2015, I calculated the average value based upon the daily closes to be 19.4. Next, I wanted to determine how often and the length of intervals that the VIX spends above its long term average.&lt;/p&gt;
+&lt;p&gt;In this study, I make the assumption that any VIX spike above its long term average will send the VIX futures curve into backwardation. This will happen because the price of the nearest expiring futures contract is drawn to the spot price of the VIX, but longer dated futures contracts are drawn to the VIX long term average. The difference between the current VIX futures contract and the spot is what traders call the roll yield. &lt;a href="http://vixcontango.com/Site/Introduction#VolatilityCurveFormations"&gt;This blog article by VIX Contango Oscillator explains it very well&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;...a VIX Future contract over the long term tries to reach the average spot VIX value. The farther out in time the future, the closer the fair value will be to the average historical VIX value. The delta between the future price approximation and the average value goes exponentially closer to zero. The flipside of that calculation is that the nearest term VIX future has the largest difference to the long-term average, the second term VIX Future - the second largest difference, the third term VIX Future - the third largest difference, etc. The exponential decline in the delta can be plainly seen in the usual VIX Future Curve formation depicted above (Contango formation).&lt;/blockquote&gt;
+&lt;p style="text-align: center;"&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Pasted_Image_9_29_15__11_22_PM.png"&gt;&lt;img src="/images/2015/09/Pasted_Image_9_29_15__11_22_PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Pasted_Image_9_29_15__11_27_PM.png"&gt;&lt;img src="/images/2015/09/Pasted_Image_9_29_15__11_27_PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;I downloaded the historical spot VIX prices from the &lt;a href="http://www.cboe.com/micro/vix/historical.aspx"&gt;CBOE website&lt;/a&gt;.  Using data from 2004-2015, I calculated the average value based upon the daily closes to be &lt;strong&gt;19.4&lt;/strong&gt;. Next, I wanted to determine how often and the length of intervals that the VIX spends above its long term average.&lt;/p&gt;
 
 &lt;p&gt;My theory is that when the VIX is above the long term average, the short term VIX futures is more likely to be in a state of backwardation. Backwardation is harmful to XIV. Therefore, prolonged periods of time when the VIX remains above 19.4 should be very detrimental to the price of XIV.&lt;/p&gt;
 
-&lt;p&gt;Study Findings&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Study Findings&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;From 2004-2015, I learned that the VIX spent roughly 1/3 of its time above the long term average. The median of 16.4 indicates that the distribution of where the VIX spends its time is skewed upward. In other words, a fewer number of high VIX days during spikes has pulled the average higher.  This would explain how the VIX futures could spend more days in contango than backwardation.&lt;/p&gt;
+&lt;p&gt;From 2004-2015, I learned that the VIX spent roughly 1/3 of its time above the long term average. The median of 16.4 indicates that the distribution of where the VIX spends its time is skewed upward. In other words, a fewer number of high VIX days during spikes has pulled the average higher.  This would explain how the VIX futures could spend more days in contango than backwardation.&lt;/p&gt;
 
-&lt;p&gt;Screen Shot 2015-09-28 at 3.53.57 PM
-Source: Derived from CBOE Figures
-The longevity and distribution of VIX spikes is most interesting. I noted the length of periods when the VIX went above its long term average and held for a number of days. As expected, tumultuous times in the market correlated to longer periods of an elevated VIX. Here are key periods of time when the VIX went above its long term average of 19.4 and held. (I only analyzed whether the VIX was above or below 19.4; point value of much was not examined.)&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-3.53.57-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-3.53.57-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      &lt;strong&gt;Source: Derived from CBOE Figures&lt;/strong&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Screen Shot 2015-09-28 at 4.16.03 PM&lt;/p&gt;
+&lt;p&gt;The longevity and distribution of VIX spikes is most interesting. I noted the length of periods when the VIX went above its long term average and held for a number of days. As expected, tumultuous times in the market correlated to longer periods of an elevated VIX. Here are key periods of time when the VIX went above its long term average of 19.4 and held. (I only analyzed whether the VIX was above or below 19.4; point value of much was not examined.)&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-4.16.03-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-4.16.03-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;I then grouped each period of high volatility into year and quarter.&lt;/p&gt;
 
-&lt;p&gt;Screen Shot 2015-09-28 at 4.23.58 PM
-Percentage of days within each quarter where the VIX was above it’s long term average of 19.4
-This table shows that the VIX is polarizing! During tumultuous times the VIX could remain elevated for extensive periods, which is very bad for XIV. In 2009, the VIX stayed above its long term average for the entire year. But during periods when the markets are relatively calm such as 2004-2006, the VIX won’t spend more than a few days at a time above its long term average.&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-4.23.58-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-4.23.58-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      Percentage of days within each quarter where the VIX was above its long term average of 19.4
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;XIV was launched just before a period of historically low volatility. This has given the dangerous illusion that XIV is invulnerable and will always be driven higher by contango, which is not always the case. The only time we’ve really gotten a taste of how prolonged volatility affects XIV is 2011 when it took a 75% drawdown during the debt ceiling crisis.&lt;/p&gt;
+&lt;p&gt;This table shows that the VIX is polarizing! During tumultuous times the VIX could remain elevated for extensive periods, which is very bad for XIV. In 2009, the VIX stayed above its long term average for the entire year. But during periods when the markets are relatively calm such as 2004-2006, the VIX won't spend more than a few days at a time above its long term average.&lt;/p&gt;
 
-&lt;p&gt;Main_thinkorswim__build_1878_29_
-Teal shaded periods denote VIX &amp;gt; 19.4. Source: ThinkOrSwim
-Main_thinkorswim__build_1878_29_&lt;/p&gt;
+&lt;p&gt;XIV was launched just before a period of historically low volatility. This has given the dangerous illusion that XIV is invulnerable and will always be driven higher by contango, which is not always the case. The only time we've really gotten a taste of how prolonged volatility affects XIV is 2011 when it took a 75% drawdown during the debt ceiling crisis.&lt;/p&gt;
 
-&lt;p&gt;It is possible to use the SPVXSP index to backtrack the theoretical performance of the XIV before it was created, as described on this other blog. If only more traders had this view of the XIV during the 2008 financial crisis, perhaps it would be less appealing. As the author states, if you model the performance of XIV back to 2006, you will see that it would have lost 80% of its value at some point.&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_1.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_1.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      Teal shaded periods denote VIX &amp;gt; 19.4. &lt;strong&gt;Source: ThinkOrSwim&lt;/strong&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Source: onlyvix.blogspot.com
-Source: onlyvix.blogspot.com&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_2.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_2.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Where can XIV go from here?&lt;/p&gt;
+&lt;p&gt;It is possible to use the SPVXSP index to backtrack the theoretical performance of the XIV before it was created, as &lt;a href="http://onlyvix.blogspot.com/2011/06/xiv-first-6-months.html"&gt;described on this other blog&lt;/a&gt;. If only more traders had this view of the XIV during the 2008 financial crisis, perhaps it would be less appealing. As the author states, if you model the performance of XIV back to 2006, you will see that it would have lost 80% of its value at some point.&lt;/p&gt;
 
-&lt;p&gt;I use a proprietary model to estimate potential future prices for XIV based on percentage changes in the underlying VIX futures prices (months 1 and 2). As of today, my model indicates that the current effective price for the XIV’s underlying VIX futures is 23.63. If in one day the VIX futures months 1 and 2 mix were to move to an average of 30, we could see XIV dip into the upper teens. The good news is that if volatility were to somehow go away and drop back to ~14, we could see XIV rally into the upper 30s.&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-6.53.07-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-6.53.07-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      Source: onlyvix.blogspot.com
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Screen Shot 2015-09-28 at 7.04.15 PM&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;However, as we can see from the charts above, “sticky” backwardation can happen when the VIX finds support above its long term average, causing XIV to get hammered. I see this scenario as likely until near end of the year at best.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where can XIV go from here?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;How I’m Trading This&lt;/p&gt;
+&lt;p&gt;I use a proprietary model to estimate potential future prices for XIV based on percentage changes in the underlying VIX futures prices (months 1 and 2). As of today, my model indicates that the current effective price for the XIV's underlying VIX futures is 23.63. If in one day the VIX futures months 1 and 2 mix were to move to an average of 30, we could see XIV dip into the upper teens. The good news is that if volatility were to somehow go away and drop back to ~14, we could see XIV rally into the upper 30s.&lt;/p&gt;
 
-&lt;p&gt;Main_thinkorswim__build_1878_29_&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-7.04.15-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-7.04.15-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;The quickness and severity of the current VIX spike caught me by surprise. I was sitting on a small position from the upper 40′s. When it gapped down and settled into the 20s I began building a more serious position. My plan was to add the rest of my intended shares upon any sign that the VIX was receding as usual, but that didn’t happen yet. In fact, I made a mistake by buying into the fakeout rally following the most recent FOMC meeting, hurting my average.&lt;/p&gt;
+&lt;p&gt;However, as we can see from the charts above, "sticky" backwardation can happen when the VIX finds support above its long term average, causing XIV to get hammered. I see this scenario as likely until near end of the year at best.&lt;/p&gt;
 
-&lt;p&gt;My research now tells me that since we are nearing 30 days with the VIX holding steady in the 20s, we may be in for a much longer volatility ride. This will not bode well for XIV. Until the S&amp;amp;P 500 reclaims the 2000 level, the VIX retreats back into the teens, and/or the VIX fades below the 200DMA, I do not think XIV is going to generate stellar positive returns. Judging by the length of past market corrections, I would venture to guess that the VIX can remain elevated for another quarter or more. Therefore, I will be reducing my size into rallies and looking to buy back at a better cost average.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How I'm Trading This&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;One of my personal weaknesses as a trader is that I am often too early in acting on an idea. Executing too early will get you a bad entry. With my buying power tied up through premature trades, I will not be able to buy more shares unless I unload some. I certainly don’t want to be heavy handed in XIV if the S&amp;amp;P500 falls to its next level of support at 1810.&lt;/p&gt;
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_3.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_3.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Main_thinkorswim__build_1876_16_&lt;/p&gt;
+&lt;p&gt;The quickness and severity of the current VIX spike caught me by surprise. I was sitting on a small position from the upper 40's. When it gapped down and settled into the 20s I began building a more serious position. My plan was to add the rest of my intended shares upon any sign that the VIX was receding as usual, but that didn't happen yet. In fact, I made a mistake by buying into the fakeout rally following the most recent FOMC meeting, hurting my average.&lt;/p&gt;
 
-&lt;p&gt;Final Word&lt;/p&gt;
+&lt;p&gt;My research now tells me that since we are nearing 30 days with the VIX holding steady in the 20s, we may be in for a much longer volatility ride. This will not bode well for XIV. Until the S&amp;amp;P 500 reclaims the 2000 level, the VIX retreats back into the teens, and/or the VIX fades below the 200DMA, I do not think XIV is going to generate stellar positive returns. Judging by the length of past market corrections, I would venture to guess that the VIX can remain elevated for another quarter or more. Therefore, I will be reducing my size into rallies and looking to buy back at a better cost average.&lt;/p&gt;
 
-&lt;p&gt;XIV inverse volatility is a compelling instrument. It’s extreme performance over the last several years has caught the attention of many traders. However, the recent changes in the patterns of the VIX lead me to believe we are entering a new period of increased volatility, which would be harmful to XIV as a long term holding. Use caution when building a position as long as the VIX is supported above its long term average of ~20.&lt;/p&gt;
+&lt;p&gt;One of my personal weaknesses as a trader is that I am often too early in acting on an idea. Executing too early will get you a bad entry. With my buying power tied up through premature trades, I will not be able to buy more shares unless I unload some. I certainly don't want to be heavy handed in XIV if the S&amp;amp;P500 falls to its next level of support at 1810.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/09/Main_thinkorswim__build_1876_16_.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1876_16_.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Word&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;XIV inverse volatility is a compelling instrument. It's extreme performance over the last several years has caught the attention of many traders. However, the recent changes in the patterns of the VIX lead me to believe we are entering a new period of increased volatility, which would be harmful to XIV as a long term holding. Use caution when building a position as long as the VIX is supported above its long term average of ~20.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2012/01/01/example-article/"/>
-    <id>http://blog.url.com/blog/2012/01/01/example-article/</id>
-    <published>2011-12-31T19:00:00-05:00</published>
-    <updated>2016-04-03T23:52:22-04:00</updated>
+    <title>Are Chinese tech stocks ready to turn?</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/04/08/are-china-tech-stocks-ready-to-turn/"/>
+    <id>http://blog.url.com/blog/2015/04/08/are-china-tech-stocks-ready-to-turn/</id>
+    <published>2015-04-07T20:00:00-04:00</published>
+    <updated>2016-04-12T10:38:29-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+    <content type="html">&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/04/Ghostbusters-Mural-Wide_New.jpg"&gt;&lt;img src="/images/2015/04/Ghostbusters-Mural-Wide_New.jpg" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This morning there was a lot of activity in the beaten down Chinese stock sector. I think this could be the start of a much bigger move. We are early in the second quarter and the activity I see this morning could be the start of a rotation of institutional money into Chinese stocks.&lt;/p&gt;
+
+&lt;p&gt;Steve Spencer of SMB Capital &lt;a href="http://www.smbtraining.com/blog/trading-after-a-market-correction" target="_blank"&gt;recently did a video on their blog&lt;/a&gt; about how to trade the bottom in a correction. He does an in depth review of how he spotted and successfully traded last year's correction in small cap tech stocks. I think this year we've seen a similar correction in Chinese stocks and it may be bottoming out.&lt;/p&gt;
+
+&lt;p&gt;One of the signs Steve looks for to identify a correction is a basket of stocks. In a correction, he expects the leaders to be down 20%, and in some cases as high as 40% pullback from the highs. If you look at the recent performance of some of the high flying Chinese tech stocks from last year, you will certainly see this is the case:&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.10.16-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.10.16-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Some of the stocks like JD, CTRP, and ATHM were actually down much more but have recently started climbing back to the highs. We may soon see other former leaders in the group like WB, DANG, and QIHU catch up.&lt;/p&gt;
+
+&lt;p&gt;In Steve's video, he says that he also likes to look for a clear level of support that holds as a bottom. The bottom is especially strong if it holds through an earnings report, or if some volume selling comes in but is unsuccessful in crushing it to new lows that stick. I think we are seeing such a consolidation in many of these. Here are some of my favorite charts right now.&lt;/p&gt;
+
+&lt;p&gt;BABA - 80 seems to be a floor.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.17-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.17-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;KNDI - 10 has been a solid support going back to the very beginning of 2014. There seems to be some recent support at 12 on the shorter time frames. A move to the 200DMA near 15 seems well within reach.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.26-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.26-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;WB - This thing is beat, but its got a nice series of higher lows since it got near 12 at the beginning of February. With only a 13M share float, it could take off substantially if money flows in.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.39-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.39-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Trading Plan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I'm going to have a close eye on these stocks over the next few days. Some of these I've started into today with small positions. For the most part I'm going to be waiting for dips and picking to go long on key short term technical levels where the tape holds.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Remount Watches for 3/30/15</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/03/30/remount-watches-for-33015/"/>
+    <id>http://blog.url.com/blog/2015/03/30/remount-watches-for-33015/</id>
+    <published>2015-03-29T20:00:00-04:00</published>
+    <updated>2016-04-12T10:45:02-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;As a follow up to my post on how to play&lt;/p&gt;
+
+&lt;p&gt;&lt;a title="How to Trade Breakout Remount Setups" href="http://www.greenspudtrades.com/2015/03/30/how-to-trade-breakout-remount-setups/"&gt;remount setups&lt;/a&gt;, here are some stocks currently on my radar for this setup.&lt;/p&gt;
+
+&lt;p&gt;ACN - Earnings beat last week. Interested in a pull to 92 and consolidation for bounce. #gap-up-remount&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="images/2015/03/Screen-Shot-2015-03-30-at-8.37.39-AM-600x339.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-8.37.39-AM-600x339.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;AVGO - I may have missed the bounce here to the premarket support area on day 1 of the breakout, but still watching. #gap-up-remount&lt;/p&gt;
+
+&lt;p&gt;&lt;img class="alignnone size-medium wp-image-1055" src="http://www.greenspudtrades.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-30-at-8.38.54-AM-600x339.png" alt="Screen Shot 2015-03-30 at 8.38.54 AM" width="600" height="339" /&gt;&lt;/p&gt;
+
+&lt;p&gt;FB - That pull back to the previous resistance area ~82 may have been the remount. I'd buy on a dip with a stop somewhere near 81.25. #gap-up-remount&lt;/p&gt;
+
+&lt;p&gt;&lt;img class="alignnone size-medium wp-image-1054" src="http://www.greenspudtrades.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-30-at-8.39.39-AM-600x342.png" alt="Screen Shot 2015-03-30 at 8.39.39 AM" width="600" height="342" /&gt;&lt;/p&gt;
+
+&lt;p&gt;KR - Previous resistance now support at 73.75 seems to be holding. A little far for short term r/r but may be good on a time horizon of 1 month+. #gap-up-remount&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-8.47.15-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-8.47.15-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;LEAF - Driven by an acquisition and earnings beat soon after. It's sitting on the 13EMA. 50.5 a level of interest for support. #gap-up-remount&lt;/p&gt;
+
+&lt;p&gt;&lt;img class="alignnone size-medium wp-image-1053" src="http://www.greenspudtrades.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-30-at-8.44.06-AM-600x339.png" alt="Screen Shot 2015-03-30 at 8.44.06 AM" width="600" height="339" /&gt;&lt;/p&gt;
+
+&lt;p&gt;NKE - Dip to the 97's may have been the bottom. #gap-up-remount&lt;img class="alignnone size-medium wp-image-1052" src="http://www.greenspudtrades.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-30-at-8.44.30-AM-600x341.png" alt="Screen Shot 2015-03-30 at 8.44.30 AM" width="600" height="341" /&gt;&lt;/p&gt;
+
+&lt;p&gt;OLN - Big pop on the acquisition of unit from DOW last week. Sold off, but may remount around 31 as support. #gap-up-remount&amp;lt;div class="image-box"&amp;gt;&lt;/p&gt;
+&lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-8.45.48-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-8.45.48-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to Trade Breakout Remount Setups</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/03/30/how-to-trade-breakout-remount-setups/"/>
+    <id>http://blog.url.com/blog/2015/03/30/how-to-trade-breakout-remount-setups/</id>
+    <published>2015-03-29T20:00:00-04:00</published>
+    <updated>2016-04-12T10:38:29-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/mike_bellafiore.png"&gt;&lt;img src="/images/2015/03/mike_bellafiore.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This is part two of a series of trade setups I'm examining in greater detail. In the last piece, I focused on the &lt;a title="How to Play the Breakaway Gap Setup" href="http://www.greenspudtrades.com/2015/02/24/how-to-play-the-breakaway-gap-setup/"&gt;breakaway gap&lt;/a&gt; setup. In this blog article, we will examine a closely related trade setup called a "remount". A remount happens when a stock price breaks out of consolidation to a new trading range but initially fails, pulling back to make a higher low before following through with the real breakout.&lt;/p&gt;
+
+&lt;p&gt;Here is a recent example. LQ came out with a positive earnings report and looked like it was going to break out through all time highs. However, it hit resistance at 23 and sharply pulled back. It consolidated in the mid 22's for several days before resuming its breakout, clearing the 24's.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-29-at-11.36.15-PM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-29-at-11.36.15-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;Gap Up Remount vs. Retest of the Breakout Area&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In my writings, I am going to break down remount setups into two categories. The first category happens in conjunction with some news such as an earnings release. The stock gaps up during the premarket, possibly opening higher than the previous day's high. It looks like a potential breakaway gap setup but then fails and has to remount before moving higher. I call this scenario the &lt;strong&gt;gap up remount &lt;/strong&gt;because a gap up is involved, which means it usually follows a failed breakaway gap setup. The area of support that it finds is usually near the price it gapped up from or a new level of resistance/support created on the first day.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-12.07.09-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-12.07.09-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-12.10.21-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-12.10.21-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Note that not every gap up remount necessarily stems from a &lt;em&gt;failed&lt;/em&gt; breakaway gap up. In many cases such as KR you can have a successful run in the gap, but then several days later profit taking brings it back to a support area from days prior in which you can go long. KR initially had a nice breakaway gap from 73 to the upper 70's in which you could have taken profits if you went long on day 1. The remount gives you a second opportunity.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-8.47.15-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-8.47.15-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The second variation I call a &lt;strong&gt;breakout remount&lt;/strong&gt; or &lt;strong&gt;breakout retest&lt;/strong&gt;. This happens in the absence of big news or significant premarket gap. It's just a stock that's been sitting flat for a while that starts to make a move out of an area of consolidation. Such moves usually zig zag higher, coming back to the previous area of resistance or just below it on day 2 or 3 of the run.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-12.14.37-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-12.14.37-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The main difference between the gap up remount and the breakout retest is that one is news driven while the other is not. The breakout retest setup may also be a characteristic of other setups such as a &lt;strong&gt;bull triangle&lt;/strong&gt;. The longer the stock consolidates in a range prior to the breakout, the more powerful the breakout usually is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time Frame &amp;amp; Patience&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With the breakway gap setup, you can often take substantial profits on the first day. Remounts move more slowly. It takes time for the price to find support and therefore I recommend spotting this setup only on the 5min, 15min, or 1hr charts.&lt;/p&gt;
+
+&lt;p&gt;Some remounts happen quickly (in a relative sense), bouncing back to the ATH after only several days. Others may linger and the previous area of support for several weeks before making the up move. This kind of setup moves slowly - it's pretty much a swing trade only. However, it seems to be fairly reliable with a very good risk/reward if you are patient enough to avoid the mistake of taking profits too early.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes to My Posting of Ideas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I've been trying to get more methodical with the way I use Stocktwits and post to this blog. If you noticed, I've been using hashtags lately to denote the setup I see. This past several weeks I've also taken a hiatus from posting watchlists as I've only been focusing on the breakaway gap setups which I scan for primarily in the premarket of the trading day. I'll be back to regular posting of watchlists soon with better explanations around the setups I'm looking to play.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Watchlist for 3/5/15</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/03/05/watchlist-for-3515/"/>
+    <id>http://blog.url.com/blog/2015/03/05/watchlist-for-3515/</id>
+    <published>2015-03-04T19:00:00-05:00</published>
+    <updated>2016-04-12T10:38:29-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Here are the things I'm watching this morning.&lt;/p&gt;
+
+&lt;p&gt;EYES - gapping up on some new PR, but I think its hitting resistance at 18. Interested in going short using 18.30 stop.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-05-at-9.06.51-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-05-at-9.06.51-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;KR - Following a nice earnings beat. Will wait until the open to see if this can turn into a breakaway gap. Will buy any dips down to 72 using 71 area as a stop.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-05-at-9.10.31-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-05-at-9.10.31-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;CRM - On the daily chart this has pulled back to the 13EMA and I think can bounce. Looking for ABCD style gearing for long swing trade.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-05-at-9.10.59-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-05-at-9.10.59-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ADSK - Similar setup to CRM. Retest of the breakout area.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-05-at-9.11.23-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-05-at-9.11.23-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;CRMD - looks overextended. Interested in going short using yesterday's HOD as a stop area.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/03/Screen-Shot-2015-03-05-at-9.11.46-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-05-at-9.11.46-AM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to Play the Breakaway Gap Setup</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/02/24/how-to-play-the-breakaway-gap-setup/"/>
+    <id>http://blog.url.com/blog/2015/02/24/how-to-play-the-breakaway-gap-setup/</id>
+    <published>2015-02-23T19:00:00-05:00</published>
+    <updated>2016-04-12T10:38:29-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt; &lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Livemore_Quote.png"&gt;&lt;img src="/images/2015/02/Livemore_Quote.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I began day trading full time in January of 2014. When I first started, I knew next to nothing about intraday price behavior. But I wanted to transition from being a long term buy-and-hold &lt;em&gt;investor&lt;/em&gt; to being a nimble, efficient &lt;em&gt;trader.&lt;/em&gt; Over this past year I've discovered many great resources and coaches who greatly expanded my knowledge of how to trade. My favorites include the Investors Underground community operated by &lt;a href="https://twitter.com/InvestorsLive" target="_blank"&gt;Nathan Michaud&lt;/a&gt;, &lt;a href="https://twitter.com/kunal00" target="_blank"&gt;Kunal Desai&lt;/a&gt;'s BullsOnWallStreet Bootcamp, Cameron &lt;a href="https://twitter.com/FousAlerts" target="_blank"&gt;Fous&lt;/a&gt;, &lt;a href="https://twitter.com/offshorehunters" target="_blank"&gt;Offshorehunter&lt;/a&gt;, &lt;a href="http://stocktwits.com/traderstewie?q=traderstewie" target="_blank"&gt;Trader Stewie&lt;/a&gt;, and &lt;a href="http://stocktwits.com/MikeBellafiore" target="_blank"&gt;Mike Bellafiore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, learning the ways of so many different gurus can be detrimental. My playbook eventually became so complicated that I was juggling lots of different styles, celebrating the wins but scratching my head as to what's not working when I have to take a loss. When you are a jack of all trades it is impossible to get a good handle of what style works best for you and how to play it.&lt;/p&gt;
+
+&lt;p&gt;To fix this, I'm going to become my own guru by mastering a small number setups that I understand really well. If being a trader is like being a professional athlete, then let's treat trading like sports statistics. Just as a good basketball coach knows the shooting percentages at different locations for his players, let's try to do that with trade setups. I want to know a reasonable expectation for the success rate on each of my setups. What's the best time to enter? How do I take profits? And most importantly - how do I rig the statistics in my favor by maximizing the risk/reward ratio on each trade?&lt;/p&gt;
+
+&lt;p&gt;For now, I'm going to forget about the wild west-style action you see in a trading chat room. I'm going to focus and allow myself to only trade setups that I really know. For the next several weeks, I'm just going to play only two setups. This article will focus on my #1 setup, the &lt;strong&gt;breakaway gap&lt;/strong&gt; setup.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is a Breakaway Gap?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The breakaway gap is a swing setup that happens when a stock gaps up on some news and the price action follows through for the next several days. Some of them can continue for weeks. Here's what one looks like on the daily chart:&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-3.33.44-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-3.33.44-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see, a gap up can be the basis for a move that continues for weeks. The ones that are of most interest to me are the gap ups to 52 week highs. Such gaps are more likely to continue because there is no resistance above. Nobody previously bought the stock at those highs so you have no bag holders and thus very little selling pressure. As Jesse Livermore would call it, the "line of least resistance" for the price action.&lt;/p&gt;
+
+&lt;p&gt;There is a difference however in gap ups for stocks that have gone through a long period of consolidation versus stocks that have had a significant ramp up and are already overextended. If the stock gaps up from an already high point, then it may be tired and the gap is likely to fail or reset before continuing. If the gap up occurs out of a tight, prolonged trading range, then it is likely to be the power move that keeps going.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of a stock that was overextended when it gapped up. Notice how FRX was already ramped up into 52 week high area and was poised for a parabolic ascent on the daily chart. Such gap ups are more likely to fail.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-3.42.42-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-3.42.42-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Conversely, here's a gap up out of a tight consolidation area. Some of you may also recognize this gap up occurred in conjunction with a powerful cup-and-handle setup.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-4.23.00-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-4.23.00-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Not every gap up needs to be at the 52 high. Known momentum stocks could have good power to the upside if the news is strong enough. You just have to be able to read the intraday action to decide whether this is the kind of move that will continue. All I really need to know to have a good idea whether the gap up is strong is the volume and action on the tape.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-3.36.33-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-3.36.33-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Backtesting the Breakaway Gap Strategy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To ensure that I'm employing this strategy in a way that will be successful over the long run, I created an Excel spreadsheet to help me backtest this strategy as well as calculate risk/reward for prospective trades. I'm using ThinkOrSwim's OnDemand feature to run such "drills". OnDemand is a cool feature which lets you rewind the charts to any previous point in the last 5 years and replays the chart tick by tick. They even show the time &amp;amp; sales so you can replay the tape.&lt;/p&gt;
+
+&lt;p&gt;What I do is go back to historical dates, run my premarket scanner to find stocks are that are potential gap candidates, and paper trade them on this spreadsheet. So far I've done over 100 paper trades, risking ~$100 each (in theoretical money). I have a success rate of just above 50% on this setup.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-2.44.32-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-2.44.32-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;How I Enter the Breakaway Gap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I trade 2-3 breakaway gap setups a day in live trading. You can spot most stocks about to gap up during the premarket using a scanner. I search for stocks that have breaking news (I check briefing.com for news), greater than average premarket volume (I use a custom scanning tool), and strong price action. When I say strong price action, I like to see it holding a certain level.&lt;/p&gt;
+
+&lt;p&gt;Check out this chart of NDRM on the morning 12/30/14. This stock had news, monster volume, and it kept holding the 8 level. You could have gone long in the mid 8's with a stop just below 8. I waited until after the opening bell in this case, but was still able to get a decent entry and catch a good rip.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-4.45.23-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-4.45.23-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      This is how it looked in the premarket
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-4.47.28-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-4.47.28-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You don't always have to catch the breakaway gap in the premarket. Sometimes, the setup doesn't form until after the market opens. Some terrific gap up setups are slow to start. They may even dip below VWAP intraday before moving higher. Take a look at this chart of SCOR from last week.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-5.01.01-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-5.01.01-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After an earnings beat, this stock tested 50 for a while before ripping to 55. The things that would have given this away as a long setup are:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;It was defending the 50 area. You can tell this from reading the time &amp;amp; sales.&lt;/li&gt;
+	&lt;li&gt;If reading the tape is not for you, then you would have been able to spot a double-bottom on the intraday chart in the morning.&lt;/li&gt;
+	&lt;li&gt;The area that was holding was near the previous all time high, so you had MTF support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The breakaway gap setup is a "big picture" setup. Use it to help develop a long bias when looking a the chart of an in play stock. To time your entry correctly, it helps to know other kinds of intraday long setups such as &lt;a title="Glossary" href="http://www.greenspudtrades.com/glossary/"&gt;ABCD&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How I Exit the Breakaway Gap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The breakaway gap is typically a swing trade setup, but I like to take my profits as soon as possible. I believe that the longer you stay in a position, the more risk you face of the trade scratching out - especially if holding overnight. But you still want to ride it as long as possible to maximize your profits for the risk you took.&lt;/p&gt;
+
+&lt;p&gt;For me, the system that seems to work best is to have two price targets. I have an initial profit taking target which feels achievable if the price action moves somewhat in my favor. This first profit target is there to lock in some quickly. The secondary profit target is more ambitious and is designed to skew the stats so that my rewards outsize the setups that fail at a loss over the long run. I'm still deciding the best criteria for this second profit target - whether I want to base it off of a specific dollar value goal or wait several days for the stock to climb farther and then force me to sell based on other criteria, such as the break of an uptrend line. I aim to have an entry that would allow the potential profit to be at least 1.5 times the amount of money I would lose if I had to stop out.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-8.17.33-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-8.17.33-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The thing that makes profit taking on this setup tricky is that many of these gap ups get weak mid-day and then pull back to a previous support - sometimes wiping out significant gains if you don't take profits. I'm trying to figure out the best criteria of keeping one foot in the door so that I can yield the benefit of the stock climbing in subsequent days.&lt;/p&gt;
+
+&lt;p&gt;For stocks that are gapping up into &lt;a title="Glossary" href="http://www.greenspudtrades.com/glossary/"&gt;blue skies&lt;/a&gt;, I usually set my initial profit target based on whole dollar numbers. With BJRI, I was long from 53.01 with a stop at the intraday support at 52.38 and my targets set on 54 and 55. Unfortunately, fear of losing my gains took over and I ended up booking profits a sooner than that even though I would have been fine and it hit both of those targets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How To Mess Up the Breakaway Gap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of my trading vices is the &lt;a title="Don’t FLOG Yourself (Fear Losing Outstanding Gains)" href="http://www.greenspudtrades.com/2014/12/14/dont-flog-yourself-fear-losing-outstanding-gains/"&gt;Fear of Losing Outstanding Gains&lt;/a&gt;. This causes me to lock in profits before my profit targets are fully realized. Trading is a numbers game, and taking profits too early will hurt in the long run because your winners will fail to outsize the losers. So it's important to set realistic profit targets that give you a bigger reward than the amount you're risking, and sticking to that target. Over a series of trades you will be profitable.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="line-height: 1.4em;"&gt;Entry prices matter. I only go for the trade if get &lt;/span&gt;&lt;i style="line-height: 1.4em;"&gt;at least &lt;/i&gt;&lt;span style="line-height: 1.4em;"&gt;a 1.5:1 risk/reward ratio. Anything less is not worth the risk. This is why I have my spreadsheet to help me out. I'm constantly asking "Is this profit target realistic? Am I risking too much if I were to go in at the current price?" If you missed the optimal entry, no sweat. Later in the trading day there is often a new level of support that forms, and very often there are sharp pull backs to support mid day which could provide better entry points.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="line-height: 1.4em;"&gt;The Low Of Day is also the line in the sand. Always cut it if it starts making new lows because that is the signal that the setup has failed.&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-9.09.09-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-9.09.09-PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      If it pops and drops below support, then the setup is done because it can keep fading.
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Why Does This Setup Work?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is one way of playing the breakaway gap. My strategy is to day trade it and take profits quickly, but some people might choose to try riding out these plays for days or weeks to fully juice out the profits. The reason I like this setup is that its low hanging fruit. You get gap ups every day and its fairly simple to find the support areas and go long with a set risk.&lt;/p&gt;
+
+&lt;p&gt;I think the reason it seems to work so consistently is because as independent traders we have the ability to react more quickly than big institutions. When a company comes out with a positive earnings report and the portfolio manager at a mutual fund wants to by half a million shares, it takes time for them to coordinate the trading team to execute a buy program. Plus, it takes a while for the market to digest the orders from big institutions. They don't hit it all at once. As a retail trader with a small account, you can be in and out very quickly, running circles around the big guys as they execute their massive buy programs.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
 </content>
   </entry>
 </feed>
