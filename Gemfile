@@ -14,6 +14,3 @@ gem 'redcarpet',  '~> 3.3', '>= 3.3.3'
 gem 'builder', '~> 3.0'
 
 gem 'bh',             '~> 1.3'
-
-# For converting former Wordpress site to Middleman
-gem 'wordpress-to-middleman', path: '~/Development/sites/wordpress-to-middleman'
