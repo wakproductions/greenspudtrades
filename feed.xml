@@ -5,10 +5,26 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-06-06T20:00:00-04:00</updated>
+  <updated>2017-06-24T20:00:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Introducing MomentumStockScans.com!</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2017/06/25/introducing-momentum-stock-scans/"/>
+    <id>http://blog.url.com/blog/2017/06/25/introducing-momentum-stock-scans/</id>
+    <published>2017-06-24T20:00:00-04:00</published>
+    <updated>2017-06-25T12:31:18-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Here is a link to my latest project, &lt;a href="http://www.momentumstockscans.com"&gt;MomentumStockScans.com&lt;/a&gt;, a free stock market
+scanning tool to help equities traders find the best daily opportunities. Here is a brief introduction video,
+more content to follow!&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pgX9ws8k6uY" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+</content>
+  </entry>
   <entry>
     <title>Introducing the US Treasury Yield Curve Website!</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/06/07/new-website-us-treasury-yield-curve/"/>
@@ -358,164 +374,6 @@ Worth checking every so often!&lt;/p&gt;
     &lt;a href="/images/2015/03/Screen-Shot-2015-03-05-at-9.11.46-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-05-at-9.11.46-AM.png" /&gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How to Play the Breakaway Gap Setup</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2015/02/24/how-to-play-the-breakaway-gap-setup/"/>
-    <id>http://blog.url.com/blog/2015/02/24/how-to-play-the-breakaway-gap-setup/</id>
-    <published>2015-02-23T19:00:00-05:00</published>
-    <updated>2016-09-10T17:29:43-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt; &lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Livemore_Quote.png"&gt;&lt;img src="/images/2015/02/Livemore_Quote.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I began day trading full time in January of 2014. When I first started, I knew next to nothing about intraday price behavior. But I wanted to transition from being a long term buy-and-hold &lt;em&gt;investor&lt;/em&gt; to being a nimble, efficient &lt;em&gt;trader.&lt;/em&gt; Over this past year I've discovered many great resources and coaches who greatly expanded my knowledge of how to trade. My favorites include the Investors Underground community operated by &lt;a href="https://twitter.com/InvestorsLive" target="_blank"&gt;Nathan Michaud&lt;/a&gt;, &lt;a href="https://twitter.com/kunal00" target="_blank"&gt;Kunal Desai&lt;/a&gt;'s BullsOnWallStreet Bootcamp, Cameron &lt;a href="https://twitter.com/FousAlerts" target="_blank"&gt;Fous&lt;/a&gt;, &lt;a href="https://twitter.com/offshorehunters" target="_blank"&gt;Offshorehunter&lt;/a&gt;, &lt;a href="http://stocktwits.com/traderstewie?q=traderstewie" target="_blank"&gt;Trader Stewie&lt;/a&gt;, and &lt;a href="http://stocktwits.com/MikeBellafiore" target="_blank"&gt;Mike Bellafiore&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, learning the ways of so many different gurus can be detrimental. My playbook eventually became so complicated that I was juggling lots of different styles, celebrating the wins but scratching my head as to what's not working when I have to take a loss. When you are a jack of all trades it is impossible to get a good handle of what style works best for you and how to play it.&lt;/p&gt;
-
-&lt;p&gt;To fix this, I'm going to become my own guru by mastering a small number setups that I understand really well. If being a trader is like being a professional athlete, then let's treat trading like sports statistics. Just as a good basketball coach knows the shooting percentages at different locations for his players, let's try to do that with trade setups. I want to know a reasonable expectation for the success rate on each of my setups. What's the best time to enter? How do I take profits? And most importantly - how do I rig the statistics in my favor by maximizing the risk/reward ratio on each trade?&lt;/p&gt;
-
-&lt;p&gt;For now, I'm going to forget about the wild west-style action you see in a trading chat room. I'm going to focus and allow myself to only trade setups that I really know. For the next several weeks, I'm just going to play only two setups. This article will focus on my #1 setup, the &lt;strong&gt;breakaway gap&lt;/strong&gt; setup.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What is a Breakaway Gap?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The breakaway gap is a swing setup that happens when a stock gaps up on some news and the price action follows through for the next several days. Some of them can continue for weeks. Here's what one looks like on the daily chart:&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-3.33.44-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-3.33.44-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As you can see, a gap up can be the basis for a move that continues for weeks. The ones that are of most interest to me are the gap ups to 52 week highs. Such gaps are more likely to continue because there is no resistance above. Nobody previously bought the stock at those highs so you have no bag holders and thus very little selling pressure. As Jesse Livermore would call it, the "line of least resistance" for the price action.&lt;/p&gt;
-
-&lt;p&gt;There is a difference however in gap ups for stocks that have gone through a long period of consolidation versus stocks that have had a significant ramp up and are already overextended. If the stock gaps up from an already high point, then it may be tired and the gap is likely to fail or reset before continuing. If the gap up occurs out of a tight, prolonged trading range, then it is likely to be the power move that keeps going.&lt;/p&gt;
-
-&lt;p&gt;Here is an example of a stock that was overextended when it gapped up. Notice how FRX was already ramped up into 52 week high area and was poised for a parabolic ascent on the daily chart. Such gap ups are more likely to fail.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-3.42.42-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-3.42.42-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Conversely, here's a gap up out of a tight consolidation area. Some of you may also recognize this gap up occurred in conjunction with a powerful cup-and-handle setup.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-4.23.00-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-4.23.00-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Not every gap up needs to be at the 52 high. Known momentum stocks could have good power to the upside if the news is strong enough. You just have to be able to read the intraday action to decide whether this is the kind of move that will continue. All I really need to know to have a good idea whether the gap up is strong is the volume and action on the tape.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-3.36.33-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-3.36.33-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Backtesting the Breakaway Gap Strategy&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;To ensure that I'm employing this strategy in a way that will be successful over the long run, I created an Excel spreadsheet to help me backtest this strategy as well as calculate risk/reward for prospective trades. I'm using ThinkOrSwim's OnDemand feature to run such "drills". OnDemand is a cool feature which lets you rewind the charts to any previous point in the last 5 years and replays the chart tick by tick. They even show the time &amp;amp; sales so you can replay the tape.&lt;/p&gt;
-
-&lt;p&gt;What I do is go back to historical dates, run my premarket scanner to find stocks are that are potential gap candidates, and paper trade them on this spreadsheet. So far I've done over 100 paper trades, risking ~$100 each (in theoretical money). I have a success rate of just above 50% on this setup.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-2.44.32-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-2.44.32-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;How I Enter the Breakaway Gap&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I trade 2-3 breakaway gap setups a day in live trading. You can spot most stocks about to gap up during the premarket using a scanner. I search for stocks that have breaking news (I check briefing.com for news), greater than average premarket volume (I use a custom scanning tool), and strong price action. When I say strong price action, I like to see it holding a certain level.&lt;/p&gt;
-
-&lt;p&gt;Check out this chart of NDRM on the morning 12/30/14. This stock had news, monster volume, and it kept holding the 8 level. You could have gone long in the mid 8's with a stop just below 8. I waited until after the opening bell in this case, but was still able to get a decent entry and catch a good rip.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-4.45.23-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-4.45.23-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      This is how it looked in the premarket
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-4.47.28-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-4.47.28-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;You don't always have to catch the breakaway gap in the premarket. Sometimes, the setup doesn't form until after the market opens. Some terrific gap up setups are slow to start. They may even dip below VWAP intraday before moving higher. Take a look at this chart of SCOR from last week.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-5.01.01-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-5.01.01-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;After an earnings beat, this stock tested 50 for a while before ripping to 55. The things that would have given this away as a long setup are:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;It was defending the 50 area. You can tell this from reading the time &amp;amp; sales.&lt;/li&gt;
-	&lt;li&gt;If reading the tape is not for you, then you would have been able to spot a double-bottom on the intraday chart in the morning.&lt;/li&gt;
-	&lt;li&gt;The area that was holding was near the previous all time high, so you had MTF support.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The breakaway gap setup is a "big picture" setup. Use it to help develop a long bias when looking a the chart of an in play stock. To time your entry correctly, it helps to know other kinds of intraday long setups such as &lt;a title="Glossary" href="http://www.greenspudtrades.com/glossary/"&gt;ABCD&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How I Exit the Breakaway Gap&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The breakaway gap is typically a swing trade setup, but I like to take my profits as soon as possible. I believe that the longer you stay in a position, the more risk you face of the trade scratching out - especially if holding overnight. But you still want to ride it as long as possible to maximize your profits for the risk you took.&lt;/p&gt;
-
-&lt;p&gt;For me, the system that seems to work best is to have two price targets. I have an initial profit taking target which feels achievable if the price action moves somewhat in my favor. This first profit target is there to lock in some quickly. The secondary profit target is more ambitious and is designed to skew the stats so that my rewards outsize the setups that fail at a loss over the long run. I'm still deciding the best criteria for this second profit target - whether I want to base it off of a specific dollar value goal or wait several days for the stock to climb farther and then force me to sell based on other criteria, such as the break of an uptrend line. I aim to have an entry that would allow the potential profit to be at least 1.5 times the amount of money I would lose if I had to stop out.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-8.17.33-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-8.17.33-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The thing that makes profit taking on this setup tricky is that many of these gap ups get weak mid-day and then pull back to a previous support - sometimes wiping out significant gains if you don't take profits. I'm trying to figure out the best criteria of keeping one foot in the door so that I can yield the benefit of the stock climbing in subsequent days.&lt;/p&gt;
-
-&lt;p&gt;For stocks that are gapping up into &lt;a title="Glossary" href="http://www.greenspudtrades.com/glossary/"&gt;blue skies&lt;/a&gt;, I usually set my initial profit target based on whole dollar numbers. With BJRI, I was long from 53.01 with a stop at the intraday support at 52.38 and my targets set on 54 and 55. Unfortunately, fear of losing my gains took over and I ended up booking profits a sooner than that even though I would have been fine and it hit both of those targets.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How To Mess Up the Breakaway Gap&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of my trading vices is the &lt;a title="Don’t FLOG Yourself (Fear Losing Outstanding Gains)" href="http://www.greenspudtrades.com/2014/12/14/dont-flog-yourself-fear-losing-outstanding-gains/"&gt;Fear of Losing Outstanding Gains&lt;/a&gt;. This causes me to lock in profits before my profit targets are fully realized. Trading is a numbers game, and taking profits too early will hurt in the long run because your winners will fail to outsize the losers. So it's important to set realistic profit targets that give you a bigger reward than the amount you're risking, and sticking to that target. Over a series of trades you will be profitable.&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="line-height: 1.4em;"&gt;Entry prices matter. I only go for the trade if get &lt;/span&gt;&lt;i style="line-height: 1.4em;"&gt;at least &lt;/i&gt;&lt;span style="line-height: 1.4em;"&gt;a 1.5:1 risk/reward ratio. Anything less is not worth the risk. This is why I have my spreadsheet to help me out. I'm constantly asking "Is this profit target realistic? Am I risking too much if I were to go in at the current price?" If you missed the optimal entry, no sweat. Later in the trading day there is often a new level of support that forms, and very often there are sharp pull backs to support mid day which could provide better entry points.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="line-height: 1.4em;"&gt;The Low Of Day is also the line in the sand. Always cut it if it starts making new lows because that is the signal that the setup has failed.&lt;/span&gt;&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/02/Screen-Shot-2015-02-23-at-9.09.09-PM.png"&gt;&lt;img src="/images/2015/02/Screen-Shot-2015-02-23-at-9.09.09-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      If it pops and drops below support, then the setup is done because it can keep fading.
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Why Does This Setup Work?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is one way of playing the breakaway gap. My strategy is to day trade it and take profits quickly, but some people might choose to try riding out these plays for days or weeks to fully juice out the profits. The reason I like this setup is that its low hanging fruit. You get gap ups every day and its fairly simple to find the support areas and go long with a set risk.&lt;/p&gt;
-
-&lt;p&gt;I think the reason it seems to work so consistently is because as independent traders we have the ability to react more quickly than big institutions. When a company comes out with a positive earnings report and the portfolio manager at a mutual fund wants to by half a million shares, it takes time for them to coordinate the trading team to execute a buy program. Plus, it takes a while for the market to digest the orders from big institutions. They don't hit it all at once. As a retail trader with a small account, you can be in and out very quickly, running circles around the big guys as they execute their massive buy programs.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
 </content>
   </entry>
 </feed>
