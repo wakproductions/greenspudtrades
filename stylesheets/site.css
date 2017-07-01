@@ -334,6 +334,13 @@ div.title {
 div.content-row {
   padding: 15px 0px; }
 
+.momo_scans_ad {
+  background-color: #FFDEAD;
+  font-weight: bold;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center; }
+
 .datestamp {
   margin-bottom: 5px; }
 
