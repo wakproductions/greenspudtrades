@@ -36,11 +36,13 @@
       <div class="col-md-8">
         <div id="main" role="main">
           <% if is_blog_article? %>
+            <%= partial 'ad_iu_top' %>
             <h2><%= link_to current_article.title %></h2>
             <div class="datestamp"><%= current_article.date.strftime('%B %e, %Y') %></div>
           <% end %>
 
           <%= yield %>
+          <%= partial 'ad_momoscans' %>
         </div>
       </div>
       <div class="col-md-4">
@@ -67,6 +69,8 @@
                 <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
             <% end %>
           </ol>
+
+          <%= partial 'ad_sidebar' %>
         </aside>
       </div>
     </div>
