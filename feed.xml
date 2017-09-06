@@ -5,10 +5,25 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-06-29T20:00:00-04:00</updated>
+  <updated>2017-09-05T19:55:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Shut Down of MomentumStockScans.com and USTreasuryYieldCurve.com</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2017/09/05/shutting-down-momo-scans-and-ustreasurycurve/"/>
+    <id>http://blog.url.com/blog/2017/09/05/shutting-down-momo-scans-and-ustreasurycurve/</id>
+    <published>2017-09-05T19:55:00-04:00</published>
+    <updated>2017-09-05T22:18:16-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I am temporarily shutting down my websites momentumstockscans.com and ustreasuryyieldcurve.com. I initially thought
+these websites would generate sufficient traffic to be self-sustainable from ad revenue, but at the moment they
+are unprofitable. Both websites require their own databases and run via Docker containers hosted on AWS, which gets
+costly. I will put the websites back up as they were once I find a more cost effective hosting solution.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>The Trump Bull Market is NOT Over!</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/06/30/trump-bull-market-is-not-over/"/>
@@ -472,91 +487,6 @@ Worth checking every so often!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Trading Plan&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I'm going to have a close eye on these stocks over the next few days. Some of these I've started into today with small positions. For the most part I'm going to be waiting for dips and picking to go long on key short term technical levels where the tape holds.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How to Trade Breakout Remount Setups</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2015/03/30/how-to-trade-breakout-remount-setups/"/>
-    <id>http://blog.url.com/blog/2015/03/30/how-to-trade-breakout-remount-setups/</id>
-    <published>2015-03-29T20:00:00-04:00</published>
-    <updated>2017-06-30T22:41:03-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/03/mike_bellafiore.png"&gt;&lt;img src="/images/2015/03/mike_bellafiore.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This is part two of a series of trade setups I'm examining in greater detail. In the last piece, I focused on the &lt;a title="How to Play the Breakaway Gap Setup" href="http://www.greenspudtrades.com/2015/02/24/how-to-play-the-breakaway-gap-setup/"&gt;breakaway gap&lt;/a&gt; setup. In this blog article, we will examine a closely related trade setup called a "remount". A remount happens when a stock price breaks out of consolidation to a new trading range but initially fails, pulling back to make a higher low before following through with the real breakout.&lt;/p&gt;
-
-&lt;p&gt;Here is a recent example. LQ came out with a positive earnings report and looked like it was going to break out through all time highs. However, it hit resistance at 23 and sharply pulled back. It consolidated in the mid 22's for several days before resuming its breakout, clearing the 24's.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/03/Screen-Shot-2015-03-29-at-11.36.15-PM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-29-at-11.36.15-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class="momo_scans_ad"&gt;Be sure to check out my FREE stock scanning service &lt;a href="http://www.momentumstockscans.com/"&gt;Momentum Stock Scans.com&lt;/a&gt;!&lt;/div&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Gap Up Remount vs. Retest of the Breakout Area&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;In my writings, I am going to break down remount setups into two categories. The first category happens in conjunction with some news such as an earnings release. The stock gaps up during the premarket, possibly opening higher than the previous day's high. It looks like a potential breakaway gap setup but then fails and has to remount before moving higher. I call this scenario the &lt;strong&gt;gap up remount &lt;/strong&gt;because a gap up is involved, which means it usually follows a failed breakaway gap setup. The area of support that it finds is usually near the price it gapped up from or a new level of resistance/support created on the first day.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-12.07.09-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-12.07.09-AM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-12.10.21-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-12.10.21-AM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"&gt;&lt;/script&gt;
-
-&lt;!-- article-middle --&gt;
-&lt;p&gt;&lt;ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9623179230776920" data-ad-slot="8025628292"&gt;&lt;/ins&gt;
-&lt;script&gt;
-  (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Note that not every gap up remount necessarily stems from a &lt;em&gt;failed&lt;/em&gt; breakaway gap up. In many cases such as KR you can have a successful run in the gap, but then several days later profit taking brings it back to a support area from days prior in which you can go long. KR initially had a nice breakaway gap from 73 to the upper 70's in which you could have taken profits if you went long on day 1. The remount gives you a second opportunity.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-8.47.15-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-8.47.15-AM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The second variation I call a &lt;strong&gt;breakout remount&lt;/strong&gt; or &lt;strong&gt;breakout retest&lt;/strong&gt;. This happens in the absence of big news or significant premarket gap. It's just a stock that's been sitting flat for a while that starts to make a move out of an area of consolidation. Such moves usually zig zag higher, coming back to the previous area of resistance or just below it on day 2 or 3 of the run.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/03/Screen-Shot-2015-03-30-at-12.14.37-AM.png"&gt;&lt;img src="/images/2015/03/Screen-Shot-2015-03-30-at-12.14.37-AM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The main difference between the gap up remount and the breakout retest is that one is news driven while the other is not. The breakout retest setup may also be a characteristic of other setups such as a &lt;strong&gt;bull triangle&lt;/strong&gt;. The longer the stock consolidates in a range prior to the breakout, the more powerful the breakout usually is.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time Frame &amp;amp; Patience&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;With the breakway gap setup, you can often take substantial profits on the first day. Remounts move more slowly. It takes time for the price to find support and therefore I recommend spotting this setup only on the 5min, 15min, or 1hr charts.&lt;/p&gt;
-
-&lt;p&gt;Some remounts happen quickly (in a relative sense), bouncing back to the ATH after only several days. Others may linger and the previous area of support for several weeks before making the up move. This kind of setup moves slowly - it's pretty much a swing trade only. However, it seems to be fairly reliable with a very good risk/reward if you are patient enough to avoid the mistake of taking profits too early.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changes to My Posting of Ideas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I've been trying to get more methodical with the way I use Stocktwits and post to this blog. If you noticed, I've been using hashtags lately to denote the setup I see. This past several weeks I've also taken a hiatus from posting watchlists as I've only been focusing on the breakaway gap setups which I scan for primarily in the premarket of the trading day. I'll be back to regular posting of watchlists soon with better explanations around the setups I'm looking to play.&lt;/p&gt;
 </content>
   </entry>
 </feed>
