@@ -5,10 +5,92 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-09-05T19:55:00-04:00</updated>
+  <updated>2018-02-06T18:55:00-05:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Was the XIV &amp; SVXY Blow Up Caused by Malicious Market Manipulation?</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2018/02/06/xiv-blowup-market-manipulation/"/>
+    <id>http://blog.url.com/blog/2018/02/06/xiv-blowup-market-manipulation/</id>
+    <published>2018-02-06T18:55:00-05:00</published>
+    <updated>2018-02-06T19:16:31-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/Screen Shot 2018-02-06 at 6.26.03 PM.png"&gt;&lt;img src="/images/2018/ScreenShot2018-02-06at6.26.03PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Yesterday the popular inverse volatility funds XIV and SVXY both imploded in the afterhours market. Due to the decline,
+Credit Suisse is recalling the XIV note. Meanwhile, SVXY opened for trading down over 80% from yesterday's close. All
+of this happened due to the largest single-day rise in the VIX ever seen in its history.&lt;/p&gt;
+
+&lt;p&gt;Here is a chart showing the biggest VIX spikes since its inception. Note that on 8/24/15 the VIX also had a very
+bad day, but the inverse funds did not blow up. I believe this is because XIV and SVXY's intrinsic value is
+derived from the CBOE traded VIX Futures contract, which correlate to VIX movements but tend to lag somewhat.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/Screen Shot 2018-02-06 at 4.54.34 PM.png"&gt;&lt;img src="/images/2018/ScreenShot2018-02-06at4.54.34PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The spike in the VIX was insanely unusual because not even during the 2008 financial crisis have we seen
+such a large intraday move. Since the VIX value is derived from the premiums of stock options, could algorithmic
+program trading have contributed to this unusual rise?&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/Screen Shot 2018-02-06 at 6.05.23 PM.png"&gt;&lt;img src="/images/2018/ScreenShot2018-02-06at6.05.23PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;What I found personally alarming about this event is that these securities closed down business as usual
+on a declining day for the stock market. It was a losing day, but at the close there was no indication it
+would be a day that the fund would lose &lt;em&gt;all&lt;/em&gt; of its value. The destructive event happened in the after hours
+market, when the VIX futures, which are held by both funds, suddenly spiked, causing a liquidity crisis. Because
+both XIV and SVXY emulate the daily returns of being short the VIX futures, a 100% increase pretty much wipes
+out the value of these funds.&lt;/p&gt;
+
+&lt;p&gt;At 4pm ET the February CBOE VIX Futures contract was trading around 22, but immediately after the close there was a
+sudden spike to 33, which is what broke the XIV and SVXY.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/Screen Shot 2018-02-06 at 7.02.30 PM.png"&gt;&lt;img src="/images/2018/ScreenShot2018-02-06at7.02.30PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;What I find so strange about this is that yesterday's decline in the stock market was not unusual for a
+correction by any means. Yes, it was harsh, but the S&amp;amp;P 500 index has seen much worse down days without a volatility
+spike like this (especially in the afterhours). Could it be that the XIV/SVXY was specifically targeted for
+breakage? Was someone sitting on a lot of money waiting for a day with a volaility spike to push the futures
+over the edge, beyond a 100% move in the afterhours when the trading volume is light? Traders with size do this
+all the time. Sometimes big traders will nudge individual stocks or indexes to certain price points to take out
+the stops of other market participants, causing larger moves or taking advantage of the liquidity for a trade
+positioned the opposite way. It's not inconceivable that the VIX futures was targeted using a similar scheme.&lt;/p&gt;
+
+&lt;p&gt;Whether or not this was the doing of a bad actor, because this happened it will probably happen again.  Credit
+Suisse not plans to recall the XIV ETN, but it was such a popular product that I have no doubt it will return
+soon in some form. Thankfully, the bank was fully hedged. I hope that when it does comes back, they will have some
+protection in place to safeguard against this type of after hours event from repeating.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/Screen Shot 2018-02-06 at 6.56.40 PM.png"&gt;&lt;img src="/images/2018/ScreenShot2018-02-06at6.56.40PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/Screen Shot 2018-02-06 at 6.57.04 PM.png"&gt;&lt;img src="/images/2018/ScreenShot2018-02-06at6.57.04PM.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Shut Down of MomentumStockScans.com and USTreasuryYieldCurve.com</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/09/05/shutting-down-momo-scans-and-ustreasurycurve/"/>
@@ -428,65 +510,6 @@ Worth checking every so often!&lt;/p&gt;
 &lt;p&gt;XIV inverse volatility is a compelling instrument. It's extreme performance over the last several years has caught the attention of many traders. However, the recent changes in the patterns of the VIX lead me to believe we are entering a new period of increased volatility, which would be harmful to XIV as a long term holding. Use caution when building a position as long as the VIX is supported above its long term average of ~20.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Are Chinese tech stocks ready to turn?</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2015/04/08/are-china-tech-stocks-ready-to-turn/"/>
-    <id>http://blog.url.com/blog/2015/04/08/are-china-tech-stocks-ready-to-turn/</id>
-    <published>2015-04-07T20:00:00-04:00</published>
-    <updated>2016-09-10T17:29:43-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/04/Ghostbusters-Mural-Wide_New.jpg"&gt;&lt;img src="/images/2015/04/Ghostbusters-Mural-Wide_New.jpg" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This morning there was a lot of activity in the beaten down Chinese stock sector. I think this could be the start of a much bigger move. We are early in the second quarter and the activity I see this morning could be the start of a rotation of institutional money into Chinese stocks.&lt;/p&gt;
-
-&lt;p&gt;Steve Spencer of SMB Capital &lt;a href="http://www.smbtraining.com/blog/trading-after-a-market-correction" target="_blank"&gt;recently did a video on their blog&lt;/a&gt; about how to trade the bottom in a correction. He does an in depth review of how he spotted and successfully traded last year's correction in small cap tech stocks. I think this year we've seen a similar correction in Chinese stocks and it may be bottoming out.&lt;/p&gt;
-
-&lt;p&gt;One of the signs Steve looks for to identify a correction is a basket of stocks. In a correction, he expects the leaders to be down 20%, and in some cases as high as 40% pullback from the highs. If you look at the recent performance of some of the high flying Chinese tech stocks from last year, you will certainly see this is the case:&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.10.16-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.10.16-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Some of the stocks like JD, CTRP, and ATHM were actually down much more but have recently started climbing back to the highs. We may soon see other former leaders in the group like WB, DANG, and QIHU catch up.&lt;/p&gt;
-
-&lt;p&gt;In Steve's video, he says that he also likes to look for a clear level of support that holds as a bottom. The bottom is especially strong if it holds through an earnings report, or if some volume selling comes in but is unsuccessful in crushing it to new lows that stick. I think we are seeing such a consolidation in many of these. Here are some of my favorite charts right now.&lt;/p&gt;
-
-&lt;p&gt;BABA - 80 seems to be a floor.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.17-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.17-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;KNDI - 10 has been a solid support going back to the very beginning of 2014. There seems to be some recent support at 12 on the shorter time frames. A move to the 200DMA near 15 seems well within reach.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.26-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.26-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;WB - This thing is beat, but its got a nice series of higher lows since it got near 12 at the beginning of February. With only a 13M share float, it could take off substantially if money flows in.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.39-PM.png"&gt;&lt;img src="/images/2015/04/Screen-Shot-2015-04-08-at-2.21.39-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Trading Plan&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I'm going to have a close eye on these stocks over the next few days. Some of these I've started into today with small positions. For the most part I'm going to be waiting for dips and picking to go long on key short term technical levels where the tape holds.&lt;/p&gt;
 </content>
   </entry>
 </feed>
