@@ -1,0 +1,45 @@
+---
+title: SVXY - The Volatility Party is Over
+date: 2018-03-17 18:55 EST
+tags:
+---
+
+With the XIV exchange traded note gone, fans of trading inverse volatility will be looking to SVXY as an alternative.
+Unforunately on February 27, ProShares has announced that they will [reduce the leverage in the SVXY product from 1 to
+0.5](https://www.cnbc.com/2018/02/27/firm-swoops-in-to-ensure-volatility-is-a-trade-for-another-day.html). This means
+that whereas before SVXY tracked the inverse daily moves of the CBOT VIX futures month 1 and 2 contracts 1-to-1,
+a move in the VIX futures values will now result in half that percentage move in the SVXY. So let's say that
+there's a 5% down move in the VIX futures contracts, the SVXY would only change in value by a 2.5% up move.
+
+<%= partial 'image', locals: { filename: '2018/20180317a.png', caption: ''} %>
+
+This change in leverage is a wise move for ProShares, the company issuing the SVXY security, because it means that
+an unprecedented move in volatility as we saw in early February is less likely to wipe out the fund's assets. But this
+is detrimental to investors looking to capitalize on contango and it's compounding effect on the security. Here's a
+chart I put together showing what sort of gains you would get if you invested $100,000 in SVXY and held for 30 days
+while contango was at 9% from the month 1 to month 2 rollover and the average value of the VIX contracts remained the
+same.
+
+<%= partial 'image', locals: { filename: '2018/20180317a.png', caption: 'Figure 2'} %>
+
+You actually get a little bit more than a 9% return because the investment compounds. At 50% leverage, you will make
+4.4%, less than have the return. I tried experimenting with what would happen if you tried to compensate for the lower
+leverage by doubling your position size in SVXY. As you can see in the third column, it's not quite the same
+because there's less compounding and you fall short in nominal return.
+
+Doubling your exposure in SVXY to achieve the same return is dangerous because you have more capital at risk. Have
+a look at this chart depicting 4 consecutive days of 20% rise in VIX future contracts. At 100% leverage, SVXY
+starting at a value of 100 would decline 20% per day, ending the 4-day streak to end at a value of 40.96. At 50%
+leverage, the decline woudn't be quite as bad as it would end at 34.49.
+
+<%= partial 'image', locals: { filename: '2018/20180317a.png', caption: 'Figure 3'} %>
+
+But let's say you doubled your exposure, trying to replicate the same old returns. In this type of multi-day decline
+you would nominally lose more dollar amount (68.78) versus the 59.04 you would have lost with the old SVXY. That's about
+a 16.5% higher loss than you would have gotten before.
+
+### Conclusion
+
+It seems that XIV/SVXY was too good to be true. Thanks to the demise of XIV and change in leverage of SVXY, never again
+will we have such a good vehicle for profiting from the VIX futures contango. Your best bet going forward for this kind
+of trade is to short VXX... but use position sizes wisely and hedge to protect your account from margin calls!
