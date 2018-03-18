@@ -5,10 +5,78 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-02-06T18:55:00-05:00</updated>
+  <updated>2018-03-17T19:55:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>SVXY - The Volatility Party is Over</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2018/03/17/svxy-the-volatility-party-is-over/"/>
+    <id>http://blog.url.com/blog/2018/03/17/svxy-the-volatility-party-is-over/</id>
+    <published>2018-03-17T19:55:00-04:00</published>
+    <updated>2018-03-17T23:19:29-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;With the XIV exchange traded note gone, fans of trading inverse volatility will be looking to SVXY as an alternative.
+Unforunately on February 27, ProShares has announced that they will &lt;a href="https://www.cnbc.com/2018/02/27/firm-swoops-in-to-ensure-volatility-is-a-trade-for-another-day.html"&gt;reduce the leverage in the SVXY product from 1 to
+0.5&lt;/a&gt;. This means
+that whereas before SVXY tracked the inverse daily moves of the CBOT VIX futures month 1 and 2 contracts 1-to-1,
+a move in the VIX futures values will now result in half that percentage move in the SVXY. So let's say that
+there's a 5% down move in the VIX futures contracts, the SVXY would only change in value by a 2.5% up move.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/20180317a.png"&gt;&lt;img src="/images/2018/20180317a.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This change in leverage is a wise move for ProShares, the company issuing the SVXY security, because it means that
+an unprecedented move in volatility as we saw in early February is less likely to wipe out the fund's assets. But this
+is detrimental to investors looking to capitalize on contango and it's compounding effect on the security. Here's a
+chart I put together showing what sort of gains you would get if you invested $100,000 in SVXY and held for 30 days
+while contango was at 9% from the month 1 to month 2 rollover and the average value of the VIX contracts remained the
+same.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/20180317a.png"&gt;&lt;img src="/images/2018/20180317a.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      Figure 2
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You actually get a little bit more than a 9% return because the investment compounds. At 50% leverage, you will make
+4.4%, less than have the return. I tried experimenting with what would happen if you tried to compensate for the lower
+leverage by doubling your position size in SVXY. As you can see in the third column, it's not quite the same
+because there's less compounding and you fall short in nominal return.&lt;/p&gt;
+
+&lt;p&gt;Doubling your exposure in SVXY to achieve the same return is dangerous because you have more capital at risk. Have
+a look at this chart depicting 4 consecutive days of 20% rise in VIX future contracts. At 100% leverage, SVXY
+starting at a value of 100 would decline 20% per day, ending the 4-day streak to end at a value of 40.96. At 50%
+leverage, the decline woudn't be quite as bad as it would end at 34.49.&lt;/p&gt;
+
+&lt;div class="image-box"&gt;
+  &lt;div class="image-box-content"&gt;
+    &lt;a href="/images/2018/20180317a.png"&gt;&lt;img src="/images/2018/20180317a.png" /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+    &lt;div class="image-box-caption"&gt;
+      Figure 3
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;But let's say you doubled your exposure, trying to replicate the same old returns. In this type of multi-day decline
+you would nominally lose more dollar amount (68.78) versus the 59.04 you would have lost with the old SVXY. That's about
+a 16.5% higher loss than you would have gotten before.&lt;/p&gt;
+
+&lt;h3 id="conclusion"&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;It seems that XIV/SVXY was too good to be true. Thanks to the demise of XIV and change in leverage of SVXY, never again
+will we have such a good vehicle for profiting from the VIX futures contango. Your best bet going forward for this kind
+of trade is to short VXX… but use position sizes wisely and hedge to protect your account from margin calls!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Was the XIV &amp; SVXY Blow Up Caused by Malicious Market Manipulation?</title>
     <link rel="alternate" href="http://blog.url.com/blog/2018/02/06/xiv-blowup-market-manipulation/"/>
@@ -346,170 +414,6 @@ more content to follow!&lt;/p&gt;
 
 &lt;p&gt;This could be a useful reference for seeing the state of interest rates and what they might signal for the economy.
 Worth checking every so often!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>XIV is About to Get Dangerous</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2015/09/29/xiv-is-about-to-get-dangerous/"/>
-    <id>http://blog.url.com/blog/2015/09/29/xiv-is-about-to-get-dangerous/</id>
-    <published>2015-09-28T20:00:00-04:00</published>
-    <updated>2017-06-30T22:41:03-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;For a long time I have been an advocate of the long XIV trade, or effectively, to short any volatility spikes. This strategy has worked very well during the most recent bull market. Who wouldn't be lured by the tenfold gain seen on the XIV chart?&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      XIV nicely weathered every dip since 2011. &lt;strong&gt;&lt;em&gt;Source: ThinkOrSwim&lt;/em&gt;&lt;/strong&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As always, past performance is not predictive of future returns. XIV has been smashed by this recent rout in the market, having fallen over 50% from its all time high. In fact, the XIV trade does not seem to be working well in general lately. It's price has had some wild swings since the fourth quarter of 2014.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What Happened to Contango?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As I &lt;a title="Is now a good time to buy XIV?" href="http://www.greenspudtrades.com/2014/09/29/is-now-a-good-time-to-buy-xiv/"&gt;explained in a post last year&lt;/a&gt;, XIV's returns have been supercharged by a prolonged period of backwardation on the CBOE VIX futures curve. Then early this year I wrote a&lt;a title="The Dangers of Swing Trading XIV" href="http://www.greenspudtrades.com/2015/01/02/the-dangers-of-swing-trading-xiv/"&gt; follow up to that post when I noticed&lt;/a&gt; that XIV seemed to have broken its long term trend. I put forth several reasons that we may be entering a new phase of volatility where the persistence of contango helping the XIV may no longer be so reliable.&lt;/p&gt;
-
-&lt;p&gt;Since the stock market began its correction at the end of August, XIV has been hurting because the futures curve is stuck in backwardation. Unlike most volatility spikes in recent years, this time the VIX and backwardation are not fading so quickly. To better understand how this could impact XIV, I conducted a study of past "sticky" volatility spikes to determine if we could gain insight into the near future.&lt;/p&gt;
-
-&lt;p&gt;In this study, I make the assumption that any VIX spike above its long term average will send the VIX futures curve into backwardation. This will happen because the price of the nearest expiring futures contract is drawn to the spot price of the VIX, but longer dated futures contracts are drawn to the VIX long term average. The difference between the current VIX futures contract and the spot is what traders call the roll yield. &lt;a href="http://vixcontango.com/Site/Introduction#VolatilityCurveFormations"&gt;This blog article by VIX Contango Oscillator explains it very well&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;...a VIX Future contract over the long term tries to reach the average spot VIX value. The farther out in time the future, the closer the fair value will be to the average historical VIX value. The delta between the future price approximation and the average value goes exponentially closer to zero. The flipside of that calculation is that the nearest term VIX future has the largest difference to the long-term average, the second term VIX Future - the second largest difference, the third term VIX Future - the third largest difference, etc. The exponential decline in the delta can be plainly seen in the usual VIX Future Curve formation depicted above (Contango formation).&lt;/blockquote&gt;
-&lt;p style="text-align: center;"&gt;
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Pasted_Image_9_29_15__11_22_PM.png"&gt;&lt;img src="/images/2015/09/Pasted_Image_9_29_15__11_22_PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Pasted_Image_9_29_15__11_27_PM.png"&gt;&lt;img src="/images/2015/09/Pasted_Image_9_29_15__11_27_PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;I downloaded the historical spot VIX prices from the &lt;a href="http://www.cboe.com/micro/vix/historical.aspx"&gt;CBOE website&lt;/a&gt;.  Using data from 2004-2015, I calculated the average value based upon the daily closes to be &lt;strong&gt;19.4&lt;/strong&gt;. Next, I wanted to determine how often and the length of intervals that the VIX spends above its long term average.&lt;/p&gt;
-
-&lt;p&gt;My theory is that when the VIX is above the long term average, the short term VIX futures is more likely to be in a state of backwardation. Backwardation is harmful to XIV. Therefore, prolonged periods of time when the VIX remains above 19.4 should be very detrimental to the price of XIV.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class="momo_scans_ad"&gt;Be sure to check out my FREE stock scanning service &lt;a href="http://www.momentumstockscans.com/"&gt;Momentum Stock Scans.com&lt;/a&gt;!&lt;/div&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Study Findings&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;From 2004-2015, I learned that the VIX spent roughly 1/3 of its time above the long term average. The median of 16.4 indicates that the distribution of where the VIX spends its time is skewed upward. In other words, a fewer number of high VIX days during spikes has pulled the average higher.  This would explain how the VIX futures could spend more days in contango than backwardation.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-3.53.57-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-3.53.57-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      &lt;strong&gt;Source: Derived from CBOE Figures&lt;/strong&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The longevity and distribution of VIX spikes is most interesting. I noted the length of periods when the VIX went above its long term average and held for a number of days. As expected, tumultuous times in the market correlated to longer periods of an elevated VIX. Here are key periods of time when the VIX went above its long term average of 19.4 and held. (I only analyzed whether the VIX was above or below 19.4; point value of much was not examined.)&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-4.16.03-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-4.16.03-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I then grouped each period of high volatility into year and quarter.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-4.23.58-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-4.23.58-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      Percentage of days within each quarter where the VIX was above its long term average of 19.4
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This table shows that the VIX is polarizing! During tumultuous times the VIX could remain elevated for extensive periods, which is very bad for XIV. In 2009, the VIX stayed above its long term average for the entire year. But during periods when the markets are relatively calm such as 2004-2006, the VIX won't spend more than a few days at a time above its long term average.&lt;/p&gt;
-
-&lt;p&gt;XIV was launched just before a period of historically low volatility. This has given the dangerous illusion that XIV is invulnerable and will always be driven higher by contango, which is not always the case. The only time we've really gotten a taste of how prolonged volatility affects XIV is 2011 when it took a 75% drawdown during the debt ceiling crisis.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_1.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_1.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      Teal shaded periods denote VIX &amp;gt; 19.4. &lt;strong&gt;Source: ThinkOrSwim&lt;/strong&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_2.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_2.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;It is possible to use the SPVXSP index to backtrack the theoretical performance of the XIV before it was created, as &lt;a href="http://onlyvix.blogspot.com/2011/06/xiv-first-6-months.html"&gt;described on this other blog&lt;/a&gt;. If only more traders had this view of the XIV during the 2008 financial crisis, perhaps it would be less appealing. As the author states, if you model the performance of XIV back to 2006, you will see that it would have lost 80% of its value at some point.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-6.53.07-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-6.53.07-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-    &lt;div class="image-box-caption"&gt;
-      Source: onlyvix.blogspot.com
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"&gt;&lt;/script&gt;
-
-&lt;!-- article-middle --&gt;
-&lt;p&gt;&lt;ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9623179230776920" data-ad-slot="8025628292"&gt;&lt;/ins&gt;
-&lt;script&gt;
-  (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where can XIV go from here?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I use a proprietary model to estimate potential future prices for XIV based on percentage changes in the underlying VIX futures prices (months 1 and 2). As of today, my model indicates that the current effective price for the XIV's underlying VIX futures is 23.63. If in one day the VIX futures months 1 and 2 mix were to move to an average of 30, we could see XIV dip into the upper teens. The good news is that if volatility were to somehow go away and drop back to ~14, we could see XIV rally into the upper 30s.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Screen-Shot-2015-09-28-at-7.04.15-PM.png"&gt;&lt;img src="/images/2015/09/Screen-Shot-2015-09-28-at-7.04.15-PM.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;However, as we can see from the charts above, "sticky" backwardation can happen when the VIX finds support above its long term average, causing XIV to get hammered. I see this scenario as likely until near end of the year at best.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How I'm Trading This&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Main_thinkorswim__build_1878_29_3.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1878_29_3.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The quickness and severity of the current VIX spike caught me by surprise. I was sitting on a small position from the upper 40's. When it gapped down and settled into the 20s I began building a more serious position. My plan was to add the rest of my intended shares upon any sign that the VIX was receding as usual, but that didn't happen yet. In fact, I made a mistake by buying into the fakeout rally following the most recent FOMC meeting, hurting my average.&lt;/p&gt;
-
-&lt;p&gt;My research now tells me that since we are nearing 30 days with the VIX holding steady in the 20s, we may be in for a much longer volatility ride. This will not bode well for XIV. Until the S&amp;amp;P 500 reclaims the 2000 level, the VIX retreats back into the teens, and/or the VIX fades below the 200DMA, I do not think XIV is going to generate stellar positive returns. Judging by the length of past market corrections, I would venture to guess that the VIX can remain elevated for another quarter or more. Therefore, I will be reducing my size into rallies and looking to buy back at a better cost average.&lt;/p&gt;
-
-&lt;p&gt;One of my personal weaknesses as a trader is that I am often too early in acting on an idea. Executing too early will get you a bad entry. With my buying power tied up through premature trades, I will not be able to buy more shares unless I unload some. I certainly don't want to be heavy handed in XIV if the S&amp;amp;P500 falls to its next level of support at 1810.&lt;/p&gt;
-
-&lt;div class="image-box"&gt;
-  &lt;div class="image-box-content"&gt;
-    &lt;a href="/images/2015/09/Main_thinkorswim__build_1876_16_.png"&gt;&lt;img src="/images/2015/09/Main_thinkorswim__build_1876_16_.png" /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Final Word&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;XIV inverse volatility is a compelling instrument. It's extreme performance over the last several years has caught the attention of many traders. However, the recent changes in the patterns of the VIX lead me to believe we are entering a new period of increased volatility, which would be harmful to XIV as a long term holding. Use caution when building a position as long as the VIX is supported above its long term average of ~20.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
 </content>
   </entry>
 </feed>
